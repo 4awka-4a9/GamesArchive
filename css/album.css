@@ -35,3 +35,13 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.row-flex {
+    display: flex;
+    flex-flow: row wrap;
+}
