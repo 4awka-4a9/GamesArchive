@@ -50,3 +50,7 @@ footer p {
   width: 100%; 
   height: calc(100vh - 50px);
 }
+
+.game-title {
+  margin-bottom: 30px;
+}
